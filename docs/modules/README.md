@@ -1,10 +1,5 @@
 # Modules Documentation
 
-[stylebase.\_\_init\_\_](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase.__init__/README.md#module-overview)
-<br>
-No description
-
-
 [stylebase.\_\_main\_\_](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase.__main__/README.md#module-overview)
 <br>
 No description
