@@ -2,7 +2,7 @@ import copy
 import os
 from stylebase.test import Mega, Jack
 
-__all__ = ["Mega", "Jack"]
+__all__ = ["Mega", "Jack", "my_function"]
 
 
 def my_function(name, pi=3.14, path="/home"):
