@@ -18,7 +18,7 @@ _Jack doc
 ## Base Classes
 object
 
-## Class Variables
+## Class Attributes
 
 
 ## Class Properties

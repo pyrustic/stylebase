@@ -18,7 +18,7 @@ Jack class
 ## Base Classes
 object
 
-## Class Variables
+## Class Attributes
 JACK_CONSTANT
 
 ## Class Properties
