@@ -1,4 +1,35 @@
 import copy
+import os
+from stylebase.test import Mega, Jack
+
+#__all__ = []
+
+
+def my_function(name, pi=3.14, path="/home"):
+    """
+    This function will bla bla bla bla and bla then bla.
+
+    [parameters]
+    - name: the name of blabla
+    - pi: the magic number
+    - path: the path of the file
+    
+    [return valuE]
+    This function returns nothing !
+    """
+    pass
+    
+    
+
+def another_function_(_oy_=23):
+    """
+    [parameters]
+    - _oy_: just
+    """
+    
+    
+PATH = None
+
 
 
 class _Style:
