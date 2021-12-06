@@ -25,7 +25,6 @@ JACK_CONSTANT
 |Property|Type|Description|Inherited from|
 |---|---|---|---|
 |wesh|getter|None||
-
 |wesh|setter|None||
 
 
