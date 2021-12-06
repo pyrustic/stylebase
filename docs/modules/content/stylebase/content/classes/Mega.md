@@ -19,7 +19,7 @@ Frame widget which may contain other widgets and can have a 3D border.
 tkinter.Frame
 
 ## Class Attributes
-_last_child_ids (inherited from tkinter.Misc) &nbsp; _noarg_ (inherited from tkinter.Misc) &nbsp; _subst_format (inherited from tkinter.Misc) &nbsp; _subst_format_str (inherited from tkinter.Misc) &nbsp; _tclCommands (inherited from tkinter.Misc)
+\_last\_child\_ids (inherited from tkinter.Misc) &nbsp; \_noarg\_ (inherited from tkinter.Misc) &nbsp; \_subst\_format (inherited from tkinter.Misc) &nbsp; \_subst\_format\_str (inherited from tkinter.Misc) &nbsp; \_tclCommands (inherited from tkinter.Misc)
 
 ## Class Properties
 |Property|Type|Description|Inherited from|

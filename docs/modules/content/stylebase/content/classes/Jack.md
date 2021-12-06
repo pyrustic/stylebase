@@ -19,7 +19,7 @@ Jack class
 object
 
 ## Class Attributes
-JACK_CONSTANT
+JACK\_CONSTANT
 
 ## Class Properties
 |Property|Type|Description|Inherited from|
