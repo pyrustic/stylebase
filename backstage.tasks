@@ -20,7 +20,6 @@ python -m unittest discover -f -s tests -t .
 python -m backstage.script.gitinit
 
 [gitcommit]
-python -m hyperdoc build
 python -m backstage.script.gitcommit
 
 [gitpush]
