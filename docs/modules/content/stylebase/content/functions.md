@@ -2,21 +2,21 @@ Back to [All Modules](https://github.com/pyrustic/stylebase/blob/master/docs/mod
 
 # Module Overview
 
-> **stylebase**
-> 
-> No description
+**stylebase**
+ 
+No description
+
+> **Classes:** &nbsp; [Jack](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase/content/classes/Jack.md#class-jack) &nbsp;&nbsp; [Mega](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase/content/classes/Mega.md#class-mega)
 >
-> **Classes:** &nbsp; [Jack](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase/content/classes/Jack.md#class-jack) &nbsp; [Mega](https://github.com/pyrustic/stylebase/blob/master/docs/modules/content/stylebase/content/classes/Mega.md#class-mega)
->
-> **Functions:** &nbsp; [another\_function\_](#another_function_) &nbsp; [my\_function](#my_function)
+> **Functions:** &nbsp; [another\_function\_](#another_function_) &nbsp;&nbsp; [my\_function](#my_function)
 >
 > **Constants:** &nbsp; None
 
 # All Functions
-[another\_function\_](#another_function_) &nbsp; [my\_function](#my_function)
+[another\_function\_](#another_function_) &nbsp;&nbsp; [my\_function](#my_function)
 
 ## another\_function\_
-No description
+
 
 
 
@@ -24,11 +24,13 @@ No description
 
 |Parameter|Description|
 |---|---|
-| \_oy\_| just|
+|\_oy\_|just|
 
 
 
-**Return Value:** None
+
+
+**Return Value:** None.
 
 [Back to Top](#module-overview)
 
@@ -43,13 +45,15 @@ This function will bla bla bla bla and bla then bla.
 
 |Parameter|Description|
 |---|---|
-| name| the name of blabla|
-| pi| the magic number|
-| path| the path of the file|
+|name|the name of blabla|
+|pi|the magic number|
+|path|the path of the file  [return valuE] This function returns nothing !|
 
 
 
-**Return Value:** This function returns nothing !
+
+
+**Return Value:** None.
 
 [Back to Top](#module-overview)
 

@@ -14,13 +14,25 @@ class Mega(tk.Frame):
 class Jack:
     """Jack class"""
     def __init__(self):
-        """jack init"""
+        """jack initialisation
+        [parameters]
+        - a: this is a rich parameter.
+        Use it mainly for this.
+        You can still do this too.
+        
+        - b: y
+        [exceptions]
+        - errorX: the X error
+        - errorY: the Y error
+        """
         pass
         
     JACK_CONSTANT = "jackkk_constant"
     
     @property
     def wesh(self):
+        """This is a description.
+        Jumping into new line here."""
         return None
         
     @wesh.setter
