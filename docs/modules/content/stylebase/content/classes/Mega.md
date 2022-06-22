@@ -29,39 +29,7 @@ tkinter.Frame
 
 
 # All Methods
-[\_misc\_\_winfo\_getint](#_Misc__winfo_getint) &nbsp;&nbsp; [\_misc\_\_winfo\_parseitem](#_Misc__winfo_parseitem) &nbsp;&nbsp; [\_\_init\_\_](#__init__) &nbsp;&nbsp; [\_bind](#_bind) &nbsp;&nbsp; [\_configure](#_configure) &nbsp;&nbsp; [\_displayof](#_displayof) &nbsp;&nbsp; [\_do](#_do) &nbsp;&nbsp; [\_getboolean](#_getboolean) &nbsp;&nbsp; [\_getconfigure](#_getconfigure) &nbsp;&nbsp; [\_getconfigure1](#_getconfigure1) &nbsp;&nbsp; [\_getdoubles](#_getdoubles) &nbsp;&nbsp; [\_getints](#_getints) &nbsp;&nbsp; [\_grid\_configure](#_grid_configure) &nbsp;&nbsp; [\_gridconvvalue](#_gridconvvalue) &nbsp;&nbsp; [\_nametowidget](#_nametowidget) &nbsp;&nbsp; [\_options](#_options) &nbsp;&nbsp; [\_register](#_register) &nbsp;&nbsp; [\_report\_exception](#_report_exception) &nbsp;&nbsp; [\_root](#_root) &nbsp;&nbsp; [\_setup](#_setup) &nbsp;&nbsp; [\_substitute](#_substitute) &nbsp;&nbsp; [after](#after) &nbsp;&nbsp; [after\_cancel](#after_cancel) &nbsp;&nbsp; [after\_idle](#after_idle) &nbsp;&nbsp; [anchor](#anchor) &nbsp;&nbsp; [bbox](#bbox) &nbsp;&nbsp; [bell](#bell) &nbsp;&nbsp; [bind](#bind) &nbsp;&nbsp; [bind\_all](#bind_all) &nbsp;&nbsp; [bind\_class](#bind_class) &nbsp;&nbsp; [bindtags](#bindtags) &nbsp;&nbsp; [cget](#cget) &nbsp;&nbsp; [clipboard\_append](#clipboard_append) &nbsp;&nbsp; [clipboard\_clear](#clipboard_clear) &nbsp;&nbsp; [clipboard\_get](#clipboard_get) &nbsp;&nbsp; [columnconfigure](#columnconfigure) &nbsp;&nbsp; [config](#config) &nbsp;&nbsp; [configure](#configure) &nbsp;&nbsp; [deletecommand](#deletecommand) &nbsp;&nbsp; [destroy](#destroy) &nbsp;&nbsp; [event\_add](#event_add) &nbsp;&nbsp; [event\_delete](#event_delete) &nbsp;&nbsp; [event\_generate](#event_generate) &nbsp;&nbsp; [event\_info](#event_info) &nbsp;&nbsp; [focus](#focus) &nbsp;&nbsp; [focus\_displayof](#focus_displayof) &nbsp;&nbsp; [focus\_force](#focus_force) &nbsp;&nbsp; [focus\_get](#focus_get) &nbsp;&nbsp; [focus\_lastfor](#focus_lastfor) &nbsp;&nbsp; [focus\_set](#focus_set) &nbsp;&nbsp; [forget](#forget) &nbsp;&nbsp; [getboolean](#getboolean) &nbsp;&nbsp; [getdouble](#getdouble) &nbsp;&nbsp; [getint](#getint) &nbsp;&nbsp; [getvar](#getvar) &nbsp;&nbsp; [grab\_current](#grab_current) &nbsp;&nbsp; [grab\_release](#grab_release) &nbsp;&nbsp; [grab\_set](#grab_set) &nbsp;&nbsp; [grab\_set\_global](#grab_set_global) &nbsp;&nbsp; [grab\_status](#grab_status) &nbsp;&nbsp; [grid](#grid) &nbsp;&nbsp; [grid\_anchor](#grid_anchor) &nbsp;&nbsp; [grid\_bbox](#grid_bbox) &nbsp;&nbsp; [grid\_columnconfigure](#grid_columnconfigure) &nbsp;&nbsp; [grid\_configure](#grid_configure) &nbsp;&nbsp; [grid\_forget](#grid_forget) &nbsp;&nbsp; [grid\_info](#grid_info) &nbsp;&nbsp; [grid\_location](#grid_location) &nbsp;&nbsp; [grid\_propagate](#grid_propagate) &nbsp;&nbsp; [grid\_remove](#grid_remove) &nbsp;&nbsp; [grid\_rowconfigure](#grid_rowconfigure) &nbsp;&nbsp; [grid\_size](#grid_size) &nbsp;&nbsp; [grid\_slaves](#grid_slaves) &nbsp;&nbsp; [image\_names](#image_names) &nbsp;&nbsp; [image\_types](#image_types) &nbsp;&nbsp; [info](#info) &nbsp;&nbsp; [keys](#keys) &nbsp;&nbsp; [lift](#lift) &nbsp;&nbsp; [location](#location) &nbsp;&nbsp; [lower](#lower) &nbsp;&nbsp; [mainloop](#mainloop) &nbsp;&nbsp; [nametowidget](#nametowidget) &nbsp;&nbsp; [option\_add](#option_add) &nbsp;&nbsp; [option\_clear](#option_clear) &nbsp;&nbsp; [option\_get](#option_get) &nbsp;&nbsp; [option\_readfile](#option_readfile) &nbsp;&nbsp; [pack](#pack) &nbsp;&nbsp; [pack\_configure](#pack_configure) &nbsp;&nbsp; [pack\_forget](#pack_forget) &nbsp;&nbsp; [pack\_info](#pack_info) &nbsp;&nbsp; [pack\_propagate](#pack_propagate) &nbsp;&nbsp; [pack\_slaves](#pack_slaves) &nbsp;&nbsp; [place](#place) &nbsp;&nbsp; [place\_configure](#place_configure) &nbsp;&nbsp; [place\_forget](#place_forget) &nbsp;&nbsp; [place\_info](#place_info) &nbsp;&nbsp; [place\_slaves](#place_slaves) &nbsp;&nbsp; [propagate](#propagate) &nbsp;&nbsp; [quit](#quit) &nbsp;&nbsp; [register](#register) &nbsp;&nbsp; [rowconfigure](#rowconfigure) &nbsp;&nbsp; [selection\_clear](#selection_clear) &nbsp;&nbsp; [selection\_get](#selection_get) &nbsp;&nbsp; [selection\_handle](#selection_handle) &nbsp;&nbsp; [selection\_own](#selection_own) &nbsp;&nbsp; [selection\_own\_get](#selection_own_get) &nbsp;&nbsp; [send](#send) &nbsp;&nbsp; [setvar](#setvar) &nbsp;&nbsp; [size](#size) &nbsp;&nbsp; [slaves](#slaves) &nbsp;&nbsp; [tk\_bisque](#tk_bisque) &nbsp;&nbsp; [tk\_focusfollowsmouse](#tk_focusFollowsMouse) &nbsp;&nbsp; [tk\_focusnext](#tk_focusNext) &nbsp;&nbsp; [tk\_focusprev](#tk_focusPrev) &nbsp;&nbsp; [tk\_setpalette](#tk_setPalette) &nbsp;&nbsp; [tk\_strictmotif](#tk_strictMotif) &nbsp;&nbsp; [tkraise](#tkraise) &nbsp;&nbsp; [unbind](#unbind) &nbsp;&nbsp; [unbind\_all](#unbind_all) &nbsp;&nbsp; [unbind\_class](#unbind_class) &nbsp;&nbsp; [update](#update) &nbsp;&nbsp; [update\_idletasks](#update_idletasks) &nbsp;&nbsp; [wait\_variable](#wait_variable) &nbsp;&nbsp; [wait\_visibility](#wait_visibility) &nbsp;&nbsp; [wait\_window](#wait_window) &nbsp;&nbsp; [waitvar](#waitvar) &nbsp;&nbsp; [well](#well) &nbsp;&nbsp; [winfo\_atom](#winfo_atom) &nbsp;&nbsp; [winfo\_atomname](#winfo_atomname) &nbsp;&nbsp; [winfo\_cells](#winfo_cells) &nbsp;&nbsp; [winfo\_children](#winfo_children) &nbsp;&nbsp; [winfo\_class](#winfo_class) &nbsp;&nbsp; [winfo\_colormapfull](#winfo_colormapfull) &nbsp;&nbsp; [winfo\_containing](#winfo_containing) &nbsp;&nbsp; [winfo\_depth](#winfo_depth) &nbsp;&nbsp; [winfo\_exists](#winfo_exists) &nbsp;&nbsp; [winfo\_fpixels](#winfo_fpixels) &nbsp;&nbsp; [winfo\_geometry](#winfo_geometry) &nbsp;&nbsp; [winfo\_height](#winfo_height) &nbsp;&nbsp; [winfo\_id](#winfo_id) &nbsp;&nbsp; [winfo\_interps](#winfo_interps) &nbsp;&nbsp; [winfo\_ismapped](#winfo_ismapped) &nbsp;&nbsp; [winfo\_manager](#winfo_manager) &nbsp;&nbsp; [winfo\_name](#winfo_name) &nbsp;&nbsp; [winfo\_parent](#winfo_parent) &nbsp;&nbsp; [winfo\_pathname](#winfo_pathname) &nbsp;&nbsp; [winfo\_pixels](#winfo_pixels) &nbsp;&nbsp; [winfo\_pointerx](#winfo_pointerx) &nbsp;&nbsp; [winfo\_pointerxy](#winfo_pointerxy) &nbsp;&nbsp; [winfo\_pointery](#winfo_pointery) &nbsp;&nbsp; [winfo\_reqheight](#winfo_reqheight) &nbsp;&nbsp; [winfo\_reqwidth](#winfo_reqwidth) &nbsp;&nbsp; [winfo\_rgb](#winfo_rgb) &nbsp;&nbsp; [winfo\_rootx](#winfo_rootx) &nbsp;&nbsp; [winfo\_rooty](#winfo_rooty) &nbsp;&nbsp; [winfo\_screen](#winfo_screen) &nbsp;&nbsp; [winfo\_screencells](#winfo_screencells) &nbsp;&nbsp; [winfo\_screendepth](#winfo_screendepth) &nbsp;&nbsp; [winfo\_screenheight](#winfo_screenheight) &nbsp;&nbsp; [winfo\_screenmmheight](#winfo_screenmmheight) &nbsp;&nbsp; [winfo\_screenmmwidth](#winfo_screenmmwidth) &nbsp;&nbsp; [winfo\_screenvisual](#winfo_screenvisual) &nbsp;&nbsp; [winfo\_screenwidth](#winfo_screenwidth) &nbsp;&nbsp; [winfo\_server](#winfo_server) &nbsp;&nbsp; [winfo\_toplevel](#winfo_toplevel) &nbsp;&nbsp; [winfo\_viewable](#winfo_viewable) &nbsp;&nbsp; [winfo\_visual](#winfo_visual) &nbsp;&nbsp; [winfo\_visualid](#winfo_visualid) &nbsp;&nbsp; [winfo\_visualsavailable](#winfo_visualsavailable) &nbsp;&nbsp; [winfo\_vrootheight](#winfo_vrootheight) &nbsp;&nbsp; [winfo\_vrootwidth](#winfo_vrootwidth) &nbsp;&nbsp; [winfo\_vrootx](#winfo_vrootx) &nbsp;&nbsp; [winfo\_vrooty](#winfo_vrooty) &nbsp;&nbsp; [winfo\_width](#winfo_width) &nbsp;&nbsp; [winfo\_x](#winfo_x) &nbsp;&nbsp; [winfo\_y](#winfo_y)
-
-## \_Misc\_\_winfo\_getint
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, x)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_Misc\_\_winfo\_parseitem
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, t)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
+[\_\_init\_\_](#__init__) &nbsp;&nbsp; [after](#after) &nbsp;&nbsp; [after\_cancel](#after_cancel) &nbsp;&nbsp; [after\_idle](#after_idle) &nbsp;&nbsp; [anchor](#anchor) &nbsp;&nbsp; [bbox](#bbox) &nbsp;&nbsp; [bell](#bell) &nbsp;&nbsp; [bind](#bind) &nbsp;&nbsp; [bind\_all](#bind_all) &nbsp;&nbsp; [bind\_class](#bind_class) &nbsp;&nbsp; [bindtags](#bindtags) &nbsp;&nbsp; [cget](#cget) &nbsp;&nbsp; [clipboard\_append](#clipboard_append) &nbsp;&nbsp; [clipboard\_clear](#clipboard_clear) &nbsp;&nbsp; [clipboard\_get](#clipboard_get) &nbsp;&nbsp; [columnconfigure](#columnconfigure) &nbsp;&nbsp; [config](#config) &nbsp;&nbsp; [configure](#configure) &nbsp;&nbsp; [deletecommand](#deletecommand) &nbsp;&nbsp; [destroy](#destroy) &nbsp;&nbsp; [event\_add](#event_add) &nbsp;&nbsp; [event\_delete](#event_delete) &nbsp;&nbsp; [event\_generate](#event_generate) &nbsp;&nbsp; [event\_info](#event_info) &nbsp;&nbsp; [focus](#focus) &nbsp;&nbsp; [focus\_displayof](#focus_displayof) &nbsp;&nbsp; [focus\_force](#focus_force) &nbsp;&nbsp; [focus\_get](#focus_get) &nbsp;&nbsp; [focus\_lastfor](#focus_lastfor) &nbsp;&nbsp; [focus\_set](#focus_set) &nbsp;&nbsp; [forget](#forget) &nbsp;&nbsp; [getboolean](#getboolean) &nbsp;&nbsp; [getdouble](#getdouble) &nbsp;&nbsp; [getint](#getint) &nbsp;&nbsp; [getvar](#getvar) &nbsp;&nbsp; [grab\_current](#grab_current) &nbsp;&nbsp; [grab\_release](#grab_release) &nbsp;&nbsp; [grab\_set](#grab_set) &nbsp;&nbsp; [grab\_set\_global](#grab_set_global) &nbsp;&nbsp; [grab\_status](#grab_status) &nbsp;&nbsp; [grid](#grid) &nbsp;&nbsp; [grid\_anchor](#grid_anchor) &nbsp;&nbsp; [grid\_bbox](#grid_bbox) &nbsp;&nbsp; [grid\_columnconfigure](#grid_columnconfigure) &nbsp;&nbsp; [grid\_configure](#grid_configure) &nbsp;&nbsp; [grid\_forget](#grid_forget) &nbsp;&nbsp; [grid\_info](#grid_info) &nbsp;&nbsp; [grid\_location](#grid_location) &nbsp;&nbsp; [grid\_propagate](#grid_propagate) &nbsp;&nbsp; [grid\_remove](#grid_remove) &nbsp;&nbsp; [grid\_rowconfigure](#grid_rowconfigure) &nbsp;&nbsp; [grid\_size](#grid_size) &nbsp;&nbsp; [grid\_slaves](#grid_slaves) &nbsp;&nbsp; [image\_names](#image_names) &nbsp;&nbsp; [image\_types](#image_types) &nbsp;&nbsp; [info](#info) &nbsp;&nbsp; [keys](#keys) &nbsp;&nbsp; [lift](#lift) &nbsp;&nbsp; [location](#location) &nbsp;&nbsp; [lower](#lower) &nbsp;&nbsp; [mainloop](#mainloop) &nbsp;&nbsp; [nametowidget](#nametowidget) &nbsp;&nbsp; [option\_add](#option_add) &nbsp;&nbsp; [option\_clear](#option_clear) &nbsp;&nbsp; [option\_get](#option_get) &nbsp;&nbsp; [option\_readfile](#option_readfile) &nbsp;&nbsp; [pack](#pack) &nbsp;&nbsp; [pack\_configure](#pack_configure) &nbsp;&nbsp; [pack\_forget](#pack_forget) &nbsp;&nbsp; [pack\_info](#pack_info) &nbsp;&nbsp; [pack\_propagate](#pack_propagate) &nbsp;&nbsp; [pack\_slaves](#pack_slaves) &nbsp;&nbsp; [place](#place) &nbsp;&nbsp; [place\_configure](#place_configure) &nbsp;&nbsp; [place\_forget](#place_forget) &nbsp;&nbsp; [place\_info](#place_info) &nbsp;&nbsp; [place\_slaves](#place_slaves) &nbsp;&nbsp; [propagate](#propagate) &nbsp;&nbsp; [quit](#quit) &nbsp;&nbsp; [register](#register) &nbsp;&nbsp; [rowconfigure](#rowconfigure) &nbsp;&nbsp; [selection\_clear](#selection_clear) &nbsp;&nbsp; [selection\_get](#selection_get) &nbsp;&nbsp; [selection\_handle](#selection_handle) &nbsp;&nbsp; [selection\_own](#selection_own) &nbsp;&nbsp; [selection\_own\_get](#selection_own_get) &nbsp;&nbsp; [send](#send) &nbsp;&nbsp; [setvar](#setvar) &nbsp;&nbsp; [size](#size) &nbsp;&nbsp; [slaves](#slaves) &nbsp;&nbsp; [tk\_bisque](#tk_bisque) &nbsp;&nbsp; [tk\_focusfollowsmouse](#tk_focusFollowsMouse) &nbsp;&nbsp; [tk\_focusnext](#tk_focusNext) &nbsp;&nbsp; [tk\_focusprev](#tk_focusPrev) &nbsp;&nbsp; [tk\_setpalette](#tk_setPalette) &nbsp;&nbsp; [tk\_strictmotif](#tk_strictMotif) &nbsp;&nbsp; [tkraise](#tkraise) &nbsp;&nbsp; [unbind](#unbind) &nbsp;&nbsp; [unbind\_all](#unbind_all) &nbsp;&nbsp; [unbind\_class](#unbind_class) &nbsp;&nbsp; [update](#update) &nbsp;&nbsp; [update\_idletasks](#update_idletasks) &nbsp;&nbsp; [wait\_variable](#wait_variable) &nbsp;&nbsp; [wait\_visibility](#wait_visibility) &nbsp;&nbsp; [wait\_window](#wait_window) &nbsp;&nbsp; [waitvar](#waitvar) &nbsp;&nbsp; [well](#well) &nbsp;&nbsp; [winfo\_atom](#winfo_atom) &nbsp;&nbsp; [winfo\_atomname](#winfo_atomname) &nbsp;&nbsp; [winfo\_cells](#winfo_cells) &nbsp;&nbsp; [winfo\_children](#winfo_children) &nbsp;&nbsp; [winfo\_class](#winfo_class) &nbsp;&nbsp; [winfo\_colormapfull](#winfo_colormapfull) &nbsp;&nbsp; [winfo\_containing](#winfo_containing) &nbsp;&nbsp; [winfo\_depth](#winfo_depth) &nbsp;&nbsp; [winfo\_exists](#winfo_exists) &nbsp;&nbsp; [winfo\_fpixels](#winfo_fpixels) &nbsp;&nbsp; [winfo\_geometry](#winfo_geometry) &nbsp;&nbsp; [winfo\_height](#winfo_height) &nbsp;&nbsp; [winfo\_id](#winfo_id) &nbsp;&nbsp; [winfo\_interps](#winfo_interps) &nbsp;&nbsp; [winfo\_ismapped](#winfo_ismapped) &nbsp;&nbsp; [winfo\_manager](#winfo_manager) &nbsp;&nbsp; [winfo\_name](#winfo_name) &nbsp;&nbsp; [winfo\_parent](#winfo_parent) &nbsp;&nbsp; [winfo\_pathname](#winfo_pathname) &nbsp;&nbsp; [winfo\_pixels](#winfo_pixels) &nbsp;&nbsp; [winfo\_pointerx](#winfo_pointerx) &nbsp;&nbsp; [winfo\_pointerxy](#winfo_pointerxy) &nbsp;&nbsp; [winfo\_pointery](#winfo_pointery) &nbsp;&nbsp; [winfo\_reqheight](#winfo_reqheight) &nbsp;&nbsp; [winfo\_reqwidth](#winfo_reqwidth) &nbsp;&nbsp; [winfo\_rgb](#winfo_rgb) &nbsp;&nbsp; [winfo\_rootx](#winfo_rootx) &nbsp;&nbsp; [winfo\_rooty](#winfo_rooty) &nbsp;&nbsp; [winfo\_screen](#winfo_screen) &nbsp;&nbsp; [winfo\_screencells](#winfo_screencells) &nbsp;&nbsp; [winfo\_screendepth](#winfo_screendepth) &nbsp;&nbsp; [winfo\_screenheight](#winfo_screenheight) &nbsp;&nbsp; [winfo\_screenmmheight](#winfo_screenmmheight) &nbsp;&nbsp; [winfo\_screenmmwidth](#winfo_screenmmwidth) &nbsp;&nbsp; [winfo\_screenvisual](#winfo_screenvisual) &nbsp;&nbsp; [winfo\_screenwidth](#winfo_screenwidth) &nbsp;&nbsp; [winfo\_server](#winfo_server) &nbsp;&nbsp; [winfo\_toplevel](#winfo_toplevel) &nbsp;&nbsp; [winfo\_viewable](#winfo_viewable) &nbsp;&nbsp; [winfo\_visual](#winfo_visual) &nbsp;&nbsp; [winfo\_visualid](#winfo_visualid) &nbsp;&nbsp; [winfo\_visualsavailable](#winfo_visualsavailable) &nbsp;&nbsp; [winfo\_vrootheight](#winfo_vrootheight) &nbsp;&nbsp; [winfo\_vrootwidth](#winfo_vrootwidth) &nbsp;&nbsp; [winfo\_vrootx](#winfo_vrootx) &nbsp;&nbsp; [winfo\_vrooty](#winfo_vrooty) &nbsp;&nbsp; [winfo\_width](#winfo_width) &nbsp;&nbsp; [winfo\_x](#winfo_x) &nbsp;&nbsp; [winfo\_y](#winfo_y) &nbsp;&nbsp; [\_misc\_\_winfo\_getint](#_Misc__winfo_getint) &nbsp;&nbsp; [\_misc\_\_winfo\_parseitem](#_Misc__winfo_parseitem) &nbsp;&nbsp; [\_bind](#_bind) &nbsp;&nbsp; [\_configure](#_configure) &nbsp;&nbsp; [\_displayof](#_displayof) &nbsp;&nbsp; [\_do](#_do) &nbsp;&nbsp; [\_getboolean](#_getboolean) &nbsp;&nbsp; [\_getconfigure](#_getconfigure) &nbsp;&nbsp; [\_getconfigure1](#_getconfigure1) &nbsp;&nbsp; [\_getdoubles](#_getdoubles) &nbsp;&nbsp; [\_getints](#_getints) &nbsp;&nbsp; [\_grid\_configure](#_grid_configure) &nbsp;&nbsp; [\_gridconvvalue](#_gridconvvalue) &nbsp;&nbsp; [\_nametowidget](#_nametowidget) &nbsp;&nbsp; [\_options](#_options) &nbsp;&nbsp; [\_register](#_register) &nbsp;&nbsp; [\_report\_exception](#_report_exception) &nbsp;&nbsp; [\_root](#_root) &nbsp;&nbsp; [\_setup](#_setup) &nbsp;&nbsp; [\_substitute](#_substitute)
 
 ## \_\_init\_\_
 Construct a frame widget with the parent MASTER.
@@ -78,299 +46,7 @@ highlightcolor, highlightthickness, relief, takefocus, visual, width.
 
 
 
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_bind
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, what, sequence, func, add, needcleanup=1)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_configure
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, cmd, cnf, kw)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_displayof
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, displayof)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_do
-None
-
-**Inherited from:** tkinter.BaseWidget
-
-**Signature:** (self, name, args=())
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_getboolean
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, string)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_getconfigure
-Call Tcl configure command and return the result as a dict.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, \*args)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_getconfigure1
-None
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, \*args)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_getdoubles
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, string)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_getints
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, string)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_grid\_configure
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, command, index, cnf, kw)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_gridconvvalue
-None
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, value)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_nametowidget
-Return the Tkinter instance of a widget identified by
-its Tcl name NAME.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, name)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_options
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, cnf, kw=None)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_register
-Return a newly created Tcl function. If this
-function is called, the Python function FUNC will
-be executed. An optional function SUBST can
-be given which will be executed before FUNC.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, func, subst=None, needcleanup=1)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_report\_exception
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_root
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_setup
-Internal function. Sets up information about children.
-
-**Inherited from:** tkinter.BaseWidget
-
-**Signature:** (self, master, cnf)
-
-
-
-
-
-**Return Value:** None.
-
-[Back to Top](#module-overview)
-
-
-## \_substitute
-Internal function.
-
-**Inherited from:** tkinter.Misc
-
-**Signature:** (self, \*args)
-
-
-
-
-
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -391,7 +67,7 @@ identifier to cancel scheduling with after_cancel.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -410,7 +86,7 @@ given as first parameter.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -430,7 +106,7 @@ after_cancel.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -449,7 +125,7 @@ The default anchor is nw.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -474,7 +150,7 @@ corner in the master widget and the width and height.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -490,7 +166,7 @@ Ring a display's bell.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -542,7 +218,7 @@ of bound events are returned.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -561,7 +237,7 @@ it will replace the previous function. See bind for the return value.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -582,7 +258,7 @@ the return value.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -603,7 +279,7 @@ processed (see bind).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -619,7 +295,7 @@ Return the resource value for a KEY given as string.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -639,7 +315,7 @@ can be retrieved with selection_get.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -658,7 +334,7 @@ argument specifies the target display.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -686,7 +362,7 @@ selection_get(CLIPBOARD)
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -706,7 +382,7 @@ and pad (how much space to let additionally).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -726,7 +402,7 @@ the allowed keyword arguments call the method keys.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -746,7 +422,7 @@ the allowed keyword arguments call the method keys.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -764,7 +440,7 @@ Delete the Tcl command provided in NAME.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -780,7 +456,7 @@ Destroy this and all descendants widgets.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -798,7 +474,7 @@ whenever SEQUENCE occurs.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -814,7 +490,7 @@ Unbind a virtual event VIRTUAL from SEQUENCE.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -832,7 +508,7 @@ keyword arguments specify parameter of the event
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -849,7 +525,7 @@ about the SEQUENCE bound to the virtual event VIRTUAL.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -869,7 +545,7 @@ the focus through the window manager.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -888,7 +564,7 @@ Return None if the application does not have the focus.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -906,7 +582,7 @@ caution!
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -927,7 +603,7 @@ the focus.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -944,7 +620,7 @@ for this widget gets the focus from the window manager.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -964,7 +640,7 @@ the focus through the window manager.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -980,7 +656,7 @@ Unmap this widget and do not use it for the packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -996,13 +672,13 @@ Return a boolean value for Tcl boolean values true and false given as parameter.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
 
 ## getdouble
-None
+No description
 
 **Inherited from:** tkinter.Misc
 
@@ -1012,13 +688,13 @@ None
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
 
 ## getint
-None
+No description
 
 **Inherited from:** tkinter.Misc
 
@@ -1028,7 +704,7 @@ None
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1044,7 +720,7 @@ Return value of Tcl variable NAME.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1061,7 +737,7 @@ or None.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1077,7 +753,7 @@ Release grab for this widget if currently set.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1096,7 +772,7 @@ widgets in the application.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1116,7 +792,7 @@ other applications do not get events anymore.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1133,7 +809,7 @@ no, a local or a global grab.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1161,7 +837,7 @@ sticky=NSEW - if cell is larger on which sides will this
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1180,7 +856,7 @@ The default anchor is nw.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1205,7 +881,7 @@ corner in the master widget and the width and height.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1225,7 +901,7 @@ and pad (how much space to let additionally).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1253,7 +929,7 @@ sticky=NSEW - if cell is larger on which sides will this
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1269,7 +945,7 @@ Unmap this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1286,7 +962,7 @@ for positioning this widget in a grid.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1304,7 +980,7 @@ widget is located.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1324,7 +1000,7 @@ is given, the current setting will be returned.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1340,7 +1016,7 @@ Unmap this widget but remember the grid options.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1360,7 +1036,7 @@ and pad (how much space to let additionally).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1376,7 +1052,7 @@ Return a tuple of the number of column and rows in the grid.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1393,7 +1069,7 @@ in its packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1409,7 +1085,7 @@ Return a list of all existing image names.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1425,7 +1101,7 @@ Return a list of all available image types (e.g. photo bitmap).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1442,7 +1118,7 @@ for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1458,7 +1134,7 @@ Return a list of all resource names of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1474,7 +1150,7 @@ Raise this widget in the stacking order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1492,7 +1168,7 @@ widget is located.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1508,7 +1184,7 @@ Lower this widget in the stacking order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1524,7 +1200,7 @@ Call the mainloop of Tk.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1541,7 +1217,7 @@ its Tcl name NAME.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1561,7 +1237,7 @@ An optional third parameter gives the numeric priority
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1579,7 +1255,7 @@ It will be reloaded if option_add is called.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1598,7 +1274,7 @@ Values with higher priority override lower values.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1617,7 +1293,7 @@ priority.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1646,7 +1322,7 @@ side=TOP or BOTTOM or LEFT or RIGHT -  where to add this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1675,7 +1351,7 @@ side=TOP or BOTTOM or LEFT or RIGHT -  where to add this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1691,7 +1367,7 @@ Unmap this widget and do not use it for the packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1708,7 +1384,7 @@ for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1728,7 +1404,7 @@ is given the current setting will be returned.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1745,7 +1421,7 @@ in its packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1780,7 +1456,7 @@ bordermode="inside" or "outside" - whether to take border width of
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1815,7 +1491,7 @@ bordermode="inside" or "outside" - whether to take border width of
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1831,7 +1507,7 @@ Unmap this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1848,7 +1524,7 @@ for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1865,7 +1541,7 @@ in its packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1885,7 +1561,7 @@ is given the current setting will be returned.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1901,7 +1577,7 @@ Quit the Tcl interpreter. All widgets will be destroyed.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1920,7 +1596,7 @@ be given which will be executed before FUNC.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1940,7 +1616,7 @@ and pad (how much space to let additionally).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1956,7 +1632,7 @@ Clear the current X selection.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -1979,7 +1655,7 @@ before STRING.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2005,7 +1681,7 @@ type - type of the selection (e.g. STRING, FILE_NAME).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2024,7 +1700,7 @@ the selection (default PRIMARY).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2045,7 +1721,7 @@ type - type of the selection (e.g. STRING, FILE_NAME).
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2061,7 +1737,7 @@ Send Tcl command CMD to different interpreter INTERP to be executed.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2077,7 +1753,7 @@ Set Tcl variable NAME to VALUE.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2093,7 +1769,7 @@ Return a tuple of the number of column and rows in the grid.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2110,7 +1786,7 @@ in its packing order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2126,7 +1802,7 @@ Change the color scheme to light brown as used in Tk 3.6 and before.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2143,7 +1819,7 @@ be disabled easily.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2166,7 +1842,7 @@ to 0.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2182,7 +1858,7 @@ Return previous widget in the focus order. See tk_focusNext for details.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2207,7 +1883,7 @@ disabledForeground, insertBackground, troughColor.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2228,7 +1904,7 @@ Returns the set value.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2244,7 +1920,7 @@ Raise this widget in the stacking order.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2261,7 +1937,7 @@ function identified with FUNCID.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2277,7 +1953,7 @@ Unbind for all widgets for event SEQUENCE all functions.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2294,7 +1970,7 @@ all functions.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2310,7 +1986,7 @@ Enter event loop until all pending events have been processed by Tcl.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2328,7 +2004,7 @@ the user.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2347,7 +2023,7 @@ BooleanVar must be given.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2366,7 +2042,7 @@ If no parameter is given self is used.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2384,7 +2060,7 @@ If no parameter is given self is used.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2403,13 +2079,13 @@ BooleanVar must be given.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
 
 ## well
-None
+No description
 
 
 
@@ -2419,7 +2095,7 @@ None
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2435,7 +2111,7 @@ Return integer which represents atom NAME.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2451,7 +2127,7 @@ Return name of atom with identifier ID.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2467,7 +2143,7 @@ Return number of cells in the colormap for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2483,7 +2159,7 @@ Return a list of all widgets which are children of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2499,7 +2175,7 @@ Return window class name of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2515,7 +2191,7 @@ Return true if at the last color request the colormap was full.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2531,7 +2207,7 @@ Return the widget which is at the root coordinates ROOTX, ROOTY.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2547,7 +2223,7 @@ Return the number of bits per pixel.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2563,7 +2239,7 @@ Return true if this widget exists.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2580,7 +2256,7 @@ Return the number of pixels for the given distance NUMBER
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2596,7 +2272,7 @@ Return geometry string for this widget in the form "widthxheight+X+Y".
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2612,7 +2288,7 @@ Return height of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2628,7 +2304,7 @@ Return identifier ID for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2644,7 +2320,7 @@ Return the name of all Tcl interpreters for this display.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2660,7 +2336,7 @@ Return true if this widget is mapped.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2676,7 +2352,7 @@ Return the window manager name for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2692,7 +2368,7 @@ Return the name of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2708,7 +2384,7 @@ Return the name of the parent of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2724,7 +2400,7 @@ Return the pathname of the widget given by ID.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2740,7 +2416,7 @@ Rounded integer value of winfo_fpixels.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2756,7 +2432,7 @@ Return the x coordinate of the pointer on the root window.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2772,7 +2448,7 @@ Return a tuple of x and y coordinates of the pointer on the root window.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2788,7 +2464,7 @@ Return the y coordinate of the pointer on the root window.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2804,7 +2480,7 @@ Return requested height of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2820,7 +2496,7 @@ Return requested width of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2837,7 +2513,7 @@ COLOR in this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2854,7 +2530,7 @@ root window.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2871,7 +2547,7 @@ root window.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2887,7 +2563,7 @@ Return the screen name of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2904,7 +2580,7 @@ of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2921,7 +2597,7 @@ screen of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2938,7 +2614,7 @@ in pixel.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2955,7 +2631,7 @@ this widget in mm.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2972,7 +2648,7 @@ this widget in mm.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -2990,7 +2666,7 @@ colormodel of this screen.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3007,7 +2683,7 @@ this widget in pixel.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3024,7 +2700,7 @@ the form "XmajorRminor vendor vendorVersion".
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3040,7 +2716,7 @@ Return the toplevel widget of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3056,7 +2732,7 @@ Return true if the widget and all its higher ancestors are mapped.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3074,7 +2750,7 @@ colormodel of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3090,7 +2766,7 @@ Return the X identifier for the visual for this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3110,7 +2786,7 @@ depth and if includeids is true is given also the X identifier.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3128,7 +2804,7 @@ height of the screen.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3146,7 +2822,7 @@ width of the screen.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3163,7 +2839,7 @@ window of the screen of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3180,7 +2856,7 @@ window of the screen of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3196,7 +2872,7 @@ Return the width of this widget.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3213,7 +2889,7 @@ in the parent.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -3230,7 +2906,331 @@ in the parent.
 
 
 
-**Return Value:** None.
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_Misc\_\_winfo\_getint
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, x)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_Misc\_\_winfo\_parseitem
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, t)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_bind
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, what, sequence, func, add, needcleanup=1)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_configure
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, cmd, cnf, kw)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_displayof
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, displayof)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_do
+No description
+
+**Inherited from:** tkinter.BaseWidget
+
+**Signature:** (self, name, args=())
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_getboolean
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, string)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_getconfigure
+Call Tcl configure command and return the result as a dict.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, \*args)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_getconfigure1
+No description
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, \*args)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_getdoubles
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, string)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_getints
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, string)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_grid\_configure
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, command, index, cnf, kw)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_gridconvvalue
+No description
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, value)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_nametowidget
+Return the Tkinter instance of a widget identified by
+its Tcl name NAME.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, name)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_options
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, cnf, kw=None)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_register
+Return a newly created Tcl function. If this
+function is called, the Python function FUNC will
+be executed. An optional function SUBST can
+be given which will be executed before FUNC.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, func, subst=None, needcleanup=1)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_report\_exception
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_root
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_setup
+Internal function. Sets up information about children.
+
+**Inherited from:** tkinter.BaseWidget
+
+**Signature:** (self, master, cnf)
+
+
+
+
+
+**Return Value:** None
+
+[Back to Top](#module-overview)
+
+
+## \_substitute
+Internal function.
+
+**Inherited from:** tkinter.Misc
+
+**Signature:** (self, \*args)
+
+
+
+
+
+**Return Value:** None
 
 [Back to Top](#module-overview)
 

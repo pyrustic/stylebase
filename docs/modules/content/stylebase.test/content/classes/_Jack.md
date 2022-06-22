@@ -19,7 +19,7 @@ _Jack doc
 object
 
 ## Class Attributes
-
+No class attributes.
 
 ## Class Properties
 
@@ -38,7 +38,7 @@ _Jack ok
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -54,7 +54,7 @@ _Jack ok
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 

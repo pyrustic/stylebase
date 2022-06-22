@@ -16,7 +16,7 @@ No description
 [another\_function\_](#another_function_) &nbsp;&nbsp; [my\_function](#my_function)
 
 ## another\_function\_
-
+No description
 
 
 
@@ -30,7 +30,7 @@ No description
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
@@ -53,7 +53,7 @@ This function will bla bla bla bla and bla then bla.
 
 
 
-**Return Value:** None.
+**Return Value:** None
 
 [Back to Top](#module-overview)
 
