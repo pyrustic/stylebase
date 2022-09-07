@@ -27,37 +27,13 @@ if project_version == EMPTY
     : Release cancelled.
     return
 : Project version: {project_version}
-:
-: === Documentation generation===
-:
-$ hyperdoc build
-:
-: === Commit documentation update=== 
-:
-$ git add .
-$ git commit -m "Update"
-:
-: === Tagging=== 
-:
-$ git tag {project_version}
-:
-: === Build distribution package ===
-:
-$ buildver build {ARGS}
-:
-: === Git push ===
-:
-$ git push origin master tag {project_version}
-:
-: === Commit version change ===
-:
-$ git add .
-$ git commit -m "Update"
-:
-: === PyPI release === 
-:
-$ twine upload --skip-existing dist/*
-:
+& _build_doc
+& _git_default_commit
+& _git_tag {project_version}
+& _build_package {ARGS}
+& _git_push {project_version}
+& _git_default_commit
+& _pypi_release
 : Done !
 
 
@@ -80,4 +56,52 @@ $ git commit -m {msg}
 [gitpush]
 # Send the commits from your local Git repository to the remote repository
 $ git push origin master
+
+
+[_build_doc]
+:
+: === Documentation generation===
+:
+$ hyperdoc build
+
+
+[_git_default_commit]
+:
+: === Commit changes === 
+:
+$ git add .
+$ git commit -m "Update"
+
+
+[_git_tag]
+set project_version = {ARGS[0]}
+:
+: === Tagging=== 
+:
+$ git tag {project_version}
+:
+
+
+[_build_package]
+: === Build distribution package ===
+:
+$ buildver build {ARGS}
+:
+
+
+
+[_git_push]
+set project_version = {ARGS[0]}
+: === Git push ===
+:
+$ git push origin master tag {project_version}
+
+
+[_pypi_release]
+:
+: === PyPI release === 
+:
+$ twine upload --skip-existing dist/*
+:
+
 
