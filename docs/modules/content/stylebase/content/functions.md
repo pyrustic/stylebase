@@ -40,14 +40,13 @@ This function will bla bla bla bla and bla then bla.
 
 
 
-
 **Signature:** (name, pi=3.14, path='/home')
 
 |Parameter|Description|
 |---|---|
 |name|the name of blabla|
 |pi|the magic number|
-|path|the path of the file  [return valuE] This function returns nothing !|
+|path|the path of the file|
 
 
 
