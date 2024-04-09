@@ -24,7 +24,6 @@ item 2
 - Enum A
     - sub
     - sub
-
 - Enum B
     - sub
     - sub
