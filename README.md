@@ -1,8 +1,4 @@
 [Pyrustic Open Ecosystem](https://pyrustic.github.io)
 
-> Test
-hello world
-
-> Test
-
-Hello world
+- FIELD\_1 = `'hello'`
+- FIELD\_2 = `42`
