@@ -1,8 +1,7 @@
-[Pyrustic Open Ecosystem](https://pyrustic.github.io)
+# Hello World
+> Module: [path.to.module](#)
 
-> Hello world
+> Class: **MyClass**
 
-> Test 1
-> Test 2
 
-> Test 3
+
