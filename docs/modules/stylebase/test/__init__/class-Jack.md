@@ -37,7 +37,7 @@ def __init__(self):
     ...
 ```
 
-<p align="right"><a href="#methods-within-jack">Back to top</a></p>
+<p align="right"><a href="#class-jack">Back to top</a></p>
 
 ## ok
 jack ok
@@ -47,4 +47,4 @@ def ok(self):
     ...
 ```
 
-<p align="right"><a href="#methods-within-jack">Back to top</a></p>
+<p align="right"><a href="#class-jack">Back to top</a></p>

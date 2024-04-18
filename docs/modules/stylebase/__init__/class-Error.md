@@ -29,7 +29,7 @@ def __init__(self, *args, **kwargs):
     ...
 ```
 
-<p align="right"><a href="#methods-within-error">Back to top</a></p>
+<p align="right"><a href="#class-error">Back to top</a></p>
 
 ## with\_traceback
 Exception.with_traceback(tb) --
@@ -40,4 +40,4 @@ def with_tracebackNone:
     ...
 ```
 
-<p align="right"><a href="#methods-within-error">Back to top</a></p>
+<p align="right"><a href="#class-error">Back to top</a></p>

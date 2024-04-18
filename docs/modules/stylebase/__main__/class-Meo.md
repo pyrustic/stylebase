@@ -30,7 +30,7 @@ def _generate_next_value_(name, start, count, last_values):
     ...
 ```
 
-<p align="right"><a href="#methods-within-meo">Back to top</a></p>
+<p align="right"><a href="#class-meo">Back to top</a></p>
 
 ## \_member\_type\_
 The base class of the class hierarchy.
@@ -43,4 +43,4 @@ def _member_type_():
     ...
 ```
 
-<p align="right"><a href="#methods-within-meo">Back to top</a></p>
+<p align="right"><a href="#class-meo">Back to top</a></p>

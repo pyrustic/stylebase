@@ -39,7 +39,7 @@ def __init__(self, a, b='hi', c=42):
     ...
 ```
 
-<p align="right"><a href="#methods-within-merrydoc">Back to top</a></p>
+<p align="right"><a href="#class-merrydoc">Back to top</a></p>
 
 ## hello
 No docstring
@@ -49,7 +49,7 @@ def hello(self):
     ...
 ```
 
-<p align="right"><a href="#methods-within-merrydoc">Back to top</a></p>
+<p align="right"><a href="#class-merrydoc">Back to top</a></p>
 
 ## \_hella
 doccccc !
@@ -59,4 +59,4 @@ def _hella(self):
     ...
 ```
 
-<p align="right"><a href="#methods-within-merrydoc">Back to top</a></p>
+<p align="right"><a href="#class-merrydoc">Back to top</a></p>
