@@ -1,16 +1,7 @@
-<div style="display: flex; justify-content: space-between;">
-    <div> 
-        <a href="docs/README.md">Home</a> |
-        <a href="docs/modules/stylebase/__main__/README.md">Module</a>
-    </div>
-    <div> 
-        <a href="stylebase/__main__.py">Source</a> |
-        <a href="README.md">Project</a>
-    </div>
-</div>
+[Project](github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | [Module](https://github.com/pyrustic/stylebase/blob/master/docs/modules/stylebase/__main__/README.md) | [Source](https://github.com/pyrustic/stylebase/blob/master/stylebase/__main__.py)
 
 # Class UrlConfig
-> Module: [stylebase.\_\_main\_\_](docs/modules/stylebase/__main__/README.md)
+> Module: [stylebase.\_\_main\_\_](https://github.com/pyrustic/stylebase/blob/master/docs/modules/stylebase/__main__/README.md)
 >
 > Class: **UrlConfig**
 >
