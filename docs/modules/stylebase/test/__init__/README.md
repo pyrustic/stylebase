@@ -1,4 +1,4 @@
-[Project](https://github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | Module ([src](https://github.com/pyrustic/stylebase/blob/master/stylebase/test/__init__.py))
+[Project](https://github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | Module ([source](https://github.com/pyrustic/stylebase/blob/master/stylebase/test/__init__.py))
 
 # Module Overview
 > Module: **stylebase.test.\_\_init\_\_**
