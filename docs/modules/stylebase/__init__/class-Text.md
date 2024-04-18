@@ -1,7 +1,7 @@
-[Project](https://github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | [Module](https://github.com/pyrustic/stylebase/blob/master/docs/modules/stylebase/__init__/README.md) ([source](https://github.com/pyrustic/stylebase/blob/master/stylebase/__init__.py))
+[Project](/README.md) | [Docs](/docs/README.md) | [Module](/docs/modules/stylebase/__init__/README.md) ([source](/stylebase/__init__.py))
 
 # Class Text
-> Module: [stylebase.\_\_init\_\_](https://github.com/pyrustic/stylebase/blob/master/docs/modules/stylebase/__init__/README.md)
+> Module: [stylebase.\_\_init\_\_](/docs/modules/stylebase/__init__/README.md)
 >
 > Class: **Text**
 >
