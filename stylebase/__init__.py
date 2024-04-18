@@ -5,13 +5,16 @@ from stylebase.test import Mega, Jack
 from collections import namedtuple
 from enum import Enum
 
-UrlConfig = namedtuple("UrlConfig", ["project_url", "src_url_template",
+AUrlConfig = namedtuple("AUrlConfig", ["project_url", "src_url_template",
                                       "docs_url_template"])
 
-UrlConfig.__doc__ = "Namedtuple"
-UrlConfig.project_url.__doc__ = "Custom doc"
+AUrlConfig.__doc__ = "This is a Namedtuple"
 
-class Meo(Enum):
+AUrlConfig.project_url.__doc__ = "Custom doc"
+
+
+class AAAAMeo(Enum):
+    """tHI is an eNumeration"""
     AAA = 1
     BBB = 2
 
@@ -20,6 +23,8 @@ FIELD_1 = "hello"
 FIELD_2 = 42
 FIELD_3 = ("hello", 42)
 MY_CONSTANT = 1
+PATH = None
+
 
 def main():
     """
@@ -27,29 +32,64 @@ def main():
     """
     print("https://github.com/pyrustic/stylebase")
 
+
 def func1(a, b="hi", c=42):
     """
-    This is a short descriptiondfd fad dfj sllze djdf zadfda
+    This is a short description fad dfj sllze djdf zadfda
     
     This is the longer description
     dfdf dfdf dfdfdf dfdf ddfdfd
     
-    [params]
+    [param]
+    Intro text
+    for the parameters
+        - section
     - a: ddff
     - b: dffdf
     - c: dfdfdf
+    
+    [except]
+    Intro text
+    for the exceptions
+        - section
+    - ErrorLake: Raised when something...
+    - AnotherError: Raised when...
     
     [return]
     Tdff dfhjks dfsjksdf sdfjsk 
     """
     pass
+
     
 def func2():
     pass
+
     
 def func3():
     """"""
     pass
+
+
+def my_function(name, pi=3.14, path="/home"):
+    """
+    This function will bla bla bla bla and bla then bla.
+
+    [param]
+    - name: the name of blabla
+    - pi: the magic number
+    - path: the path of the file
+    
+    [return]
+    This function returns nothing !
+    """
+    pass
+
+
+def zanother_function_(_oy_=23):
+    """
+    [param]
+    - _oy_: just
+    """
 
 
 class MerryDoc:
@@ -77,7 +117,7 @@ class MerryDoc:
     def hello(self):
         pass
   
-    
+
 class Lac:
     """Class doc here"""
     CONST_1 = 42
@@ -103,36 +143,6 @@ class Lac:
     def hello(self):
         pass
         
-
-
-
-
-def my_function(name, pi=3.14, path="/home"):
-    """
-    This function will bla bla bla bla and bla then bla.
-
-    [parameters]
-    - name: the name of blabla
-    - pi: the magic number
-    - path: the path of the file
-    
-    [return valuE]
-    This function returns nothing !
-    """
-    pass
-    
-    
-
-def another_function_(_oy_=23):
-    """
-    [parameters]
-    - _oy_: just
-    """
-    
-    
-PATH = None
-
-
 
 class _Style:
     _WIDGET_CLASS = None
