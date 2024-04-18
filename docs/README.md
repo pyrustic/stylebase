@@ -3,7 +3,7 @@
         Home
     </div>
     <div> 
-       ><a href="README.md">Project</a>
+       <a href="README.md">Project</a>
     </div>
 </div>
 
