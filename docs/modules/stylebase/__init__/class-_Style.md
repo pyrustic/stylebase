@@ -37,7 +37,7 @@ def copy(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-_style">Back to top</a></p>
+<p align="right"><a href="#methods-within-_style">Back to top</a></p>
 
 ## style
 Get the dict-like style
@@ -47,7 +47,7 @@ def style(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-_style">Back to top</a></p>
+<p align="right"><a href="#methods-within-_style">Back to top</a></p>
 
 ## target
 Individually apply a style to a widget
@@ -57,4 +57,4 @@ def target(self, widget, raise_exception=False):
     ...
 ```
 
-<p align="right"><a href="##methods-within-_style">Back to top</a></p>
+<p align="right"><a href="#methods-within-_style">Back to top</a></p>

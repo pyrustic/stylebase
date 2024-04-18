@@ -38,7 +38,7 @@ def __init__(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-labelframe">Back to top</a></p>
+<p align="right"><a href="#methods-within-labelframe">Back to top</a></p>
 
 ## copy
 Get a fresh new style copied from the actual one
@@ -48,7 +48,7 @@ def copy(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-labelframe">Back to top</a></p>
+<p align="right"><a href="#methods-within-labelframe">Back to top</a></p>
 
 ## style
 Get the dict-like style
@@ -58,7 +58,7 @@ def style(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-labelframe">Back to top</a></p>
+<p align="right"><a href="#methods-within-labelframe">Back to top</a></p>
 
 ## target
 Individually apply a style to a widget
@@ -68,4 +68,4 @@ def target(self, widget, raise_exception=False):
     ...
 ```
 
-<p align="right"><a href="##methods-within-labelframe">Back to top</a></p>
+<p align="right"><a href="#methods-within-labelframe">Back to top</a></p>

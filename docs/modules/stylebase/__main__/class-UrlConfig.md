@@ -33,7 +33,7 @@ def count(self, value, /):
     ...
 ```
 
-<p align="right"><a href="##methods-within-urlconfig">Back to top</a></p>
+<p align="right"><a href="#methods-within-urlconfig">Back to top</a></p>
 
 ## index
 Return first index of value.
@@ -45,7 +45,7 @@ def index(self, value, start=0, stop=9223372036854775807, /):
     ...
 ```
 
-<p align="right"><a href="##methods-within-urlconfig">Back to top</a></p>
+<p align="right"><a href="#methods-within-urlconfig">Back to top</a></p>
 
 ## \_asdict
 Return a new dict which maps field names to their values.
@@ -55,7 +55,7 @@ def _asdict(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-urlconfig">Back to top</a></p>
+<p align="right"><a href="#methods-within-urlconfig">Back to top</a></p>
 
 ## \_replace
 Return a new UrlConfig object replacing specified fields with new values
@@ -65,4 +65,4 @@ def _replace(self, /, **kwds):
     ...
 ```
 
-<p align="right"><a href="##methods-within-urlconfig">Back to top</a></p>
+<p align="right"><a href="#methods-within-urlconfig">Back to top</a></p>

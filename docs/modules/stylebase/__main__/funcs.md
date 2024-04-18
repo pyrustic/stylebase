@@ -22,7 +22,7 @@ def func1(a, b='hi', c=42):
 
 > **Returns:** Tdff dfhjks dfsjksdf sdfjsk
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## func2
 No docstring
@@ -32,7 +32,7 @@ def func2():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## func3
 No docstring
@@ -42,7 +42,7 @@ def func3():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## main
 main function
@@ -52,4 +52,4 @@ def main():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>

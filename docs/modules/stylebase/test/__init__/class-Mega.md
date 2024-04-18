@@ -218,7 +218,7 @@ def __init__(self, master=None, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## after
 Call function once after given time.
@@ -233,7 +233,7 @@ def after(self, ms, func=None, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## after\_cancel
 Cancel scheduling of function identified with ID.
@@ -246,7 +246,7 @@ def after_cancel(self, id):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## after\_idle
 Call FUNC once if the Tcl main loop has no event to
@@ -260,7 +260,7 @@ def after_idle(self, func, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## anchor
 The anchor value controls how to place the grid within the
@@ -273,7 +273,7 @@ def anchor(self, anchor=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bbox
 Return a tuple of integer coordinates for the bounding
@@ -292,7 +292,7 @@ def bbox(self, column=None, row=None, col2=None, row2=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bell
 Ring a display's bell.
@@ -302,7 +302,7 @@ def bell(self, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bind
 Bind to this widget at event SEQUENCE a call to function FUNC.
@@ -348,7 +348,7 @@ def bind(self, sequence=None, func=None, add=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bind\_all
 Bind to all widgets at an event SEQUENCE a call to function FUNC.
@@ -361,7 +361,7 @@ def bind_all(self, sequence=None, func=None, add=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bind\_class
 Bind to widgets with bindtag CLASSNAME at event
@@ -376,7 +376,7 @@ def bind_class(self, className, sequence=None, func=None, add=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## bindtags
 Set or get the list of bindtags for this widget.
@@ -391,7 +391,7 @@ def bindtags(self, tagList=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## cget
 Return the resource value for a KEY given as string.
@@ -401,7 +401,7 @@ def cget(self, key):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## clipboard\_append
 Append STRING to the Tk clipboard.
@@ -415,7 +415,7 @@ def clipboard_append(self, string, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## clipboard\_clear
 Clear the data in the Tk clipboard.
@@ -428,7 +428,7 @@ def clipboard_clear(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## clipboard\_get
 Retrieve data from the clipboard on window's display.
@@ -450,7 +450,7 @@ def clipboard_get(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## columnconfigure
 Configure column INDEX of a grid.
@@ -464,7 +464,7 @@ def columnconfigure(self, index, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## config
 Configure resources of a widget.
@@ -478,7 +478,7 @@ def config(self, cnf=None, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## configure
 Configure resources of a widget.
@@ -492,7 +492,7 @@ def configure(self, cnf=None, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## deletecommand
 Internal function.
@@ -504,7 +504,7 @@ def deletecommand(self, name):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## destroy
 Destroy this and all descendants widgets.
@@ -514,7 +514,7 @@ def destroy(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## event\_add
 Bind a virtual event VIRTUAL (of the form <<Name>>)
@@ -526,7 +526,7 @@ def event_add(self, virtual, *sequences):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## event\_delete
 Unbind a virtual event VIRTUAL from SEQUENCE.
@@ -536,7 +536,7 @@ def event_delete(self, virtual, *sequences):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## event\_generate
 Generate an event SEQUENCE. Additional
@@ -548,7 +548,7 @@ def event_generate(self, sequence, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## event\_info
 Return a list of all virtual events or the information
@@ -559,7 +559,7 @@ def event_info(self, virtual=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus
 Direct input focus to this widget.
@@ -573,7 +573,7 @@ def focus(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus\_displayof
 Return the widget which has currently the focus on the
@@ -586,7 +586,7 @@ def focus_displayof(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus\_force
 Direct input focus to this widget even if the
@@ -598,7 +598,7 @@ def focus_force(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus\_get
 Return the widget which has currently the focus in the
@@ -613,7 +613,7 @@ def focus_get(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus\_lastfor
 Return the widget which would have the focus if top level
@@ -624,7 +624,7 @@ def focus_lastfor(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## focus\_set
 Direct input focus to this widget.
@@ -638,7 +638,7 @@ def focus_set(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## forget
 Unmap this widget and do not use it for the packing order.
@@ -648,7 +648,7 @@ def forget(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## getboolean
 Return a boolean value for Tcl boolean values true and false given as parameter.
@@ -658,7 +658,7 @@ def getboolean(self, s):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## getdouble
 No docstring
@@ -668,7 +668,7 @@ def getdouble(self, s):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## getint
 No docstring
@@ -678,7 +678,7 @@ def getint(self, s):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## getvar
 Return value of Tcl variable NAME.
@@ -688,7 +688,7 @@ def getvar(self, name='PY_VAR'):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grab\_current
 Return widget which has currently the grab in this application
@@ -699,7 +699,7 @@ def grab_current(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grab\_release
 Release grab for this widget if currently set.
@@ -709,7 +709,7 @@ def grab_release(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grab\_set
 Set grab for this widget.
@@ -722,7 +722,7 @@ def grab_set(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grab\_set\_global
 Set global grab for this widget.
@@ -736,7 +736,7 @@ def grab_set_global(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grab\_status
 Return None, "local" or "global" if this widget has
@@ -747,7 +747,7 @@ def grab_status(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid
 Position a widget in the parent widget in a grid. Use as options:
@@ -769,7 +769,7 @@ def grid(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_anchor
 The anchor value controls how to place the grid within the
@@ -782,7 +782,7 @@ def grid_anchor(self, anchor=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_bbox
 Return a tuple of integer coordinates for the bounding
@@ -801,7 +801,7 @@ def grid_bbox(self, column=None, row=None, col2=None, row2=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_columnconfigure
 Configure column INDEX of a grid.
@@ -815,7 +815,7 @@ def grid_columnconfigure(self, index, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_configure
 Position a widget in the parent widget in a grid. Use as options:
@@ -837,7 +837,7 @@ def grid_configure(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_forget
 Unmap this widget.
@@ -847,7 +847,7 @@ def grid_forget(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_info
 Return information about the options
@@ -858,7 +858,7 @@ def grid_info(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_location
 Return a tuple of column and row which identify the cell
@@ -870,7 +870,7 @@ def grid_location(self, x, y):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_propagate
 Set or get the status for propagation of geometry information.
@@ -884,7 +884,7 @@ def grid_propagate(self, flag=['_noarg_']):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_remove
 Unmap this widget but remember the grid options.
@@ -894,7 +894,7 @@ def grid_remove(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_rowconfigure
 Configure row INDEX of a grid.
@@ -908,7 +908,7 @@ def grid_rowconfigure(self, index, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_size
 Return a tuple of the number of column and rows in the grid.
@@ -918,7 +918,7 @@ def grid_size(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## grid\_slaves
 Return a list of all slaves of this widget
@@ -929,7 +929,7 @@ def grid_slaves(self, row=None, column=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## image\_names
 Return a list of all existing image names.
@@ -939,7 +939,7 @@ def image_names(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## image\_types
 Return a list of all available image types (e.g. photo bitmap).
@@ -949,7 +949,7 @@ def image_types(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## info
 Return information about the packing options
@@ -960,7 +960,7 @@ def info(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## keys
 Return a list of all resource names of this widget.
@@ -970,7 +970,7 @@ def keys(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## lift
 Raise this widget in the stacking order.
@@ -980,7 +980,7 @@ def lift(self, aboveThis=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## location
 Return a tuple of column and row which identify the cell
@@ -992,7 +992,7 @@ def location(self, x, y):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## lower
 Lower this widget in the stacking order.
@@ -1002,7 +1002,7 @@ def lower(self, belowThis=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## mainloop
 Call the mainloop of Tk.
@@ -1012,7 +1012,7 @@ def mainloop(self, n=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## nametowidget
 Return the Tkinter instance of a widget identified by
@@ -1023,7 +1023,7 @@ def nametowidget(self, name):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## option\_add
 Set a VALUE (second parameter) for an option
@@ -1037,7 +1037,7 @@ def option_add(self, pattern, value, priority=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## option\_clear
 Clear the option database.
@@ -1049,7 +1049,7 @@ def option_clear(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## option\_get
 Return the value for an option NAME for this widget
@@ -1062,7 +1062,7 @@ def option_get(self, name, className):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## option\_readfile
 Read file FILENAME into the option database.
@@ -1075,7 +1075,7 @@ def option_readfile(self, fileName, priority=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack
 Pack a widget in the parent widget. Use as options:
@@ -1098,7 +1098,7 @@ def pack(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack\_configure
 Pack a widget in the parent widget. Use as options:
@@ -1121,7 +1121,7 @@ def pack_configure(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack\_forget
 Unmap this widget and do not use it for the packing order.
@@ -1131,7 +1131,7 @@ def pack_forget(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack\_info
 Return information about the packing options
@@ -1142,7 +1142,7 @@ def pack_info(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack\_propagate
 Set or get the status for propagation of geometry information.
@@ -1156,7 +1156,7 @@ def pack_propagate(self, flag=['_noarg_']):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## pack\_slaves
 Return a list of all slaves of this widget
@@ -1167,7 +1167,7 @@ def pack_slaves(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## place
 Place a widget in the parent widget. Use as options:
@@ -1196,7 +1196,7 @@ def place(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## place\_configure
 Place a widget in the parent widget. Use as options:
@@ -1225,7 +1225,7 @@ def place_configure(self, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## place\_forget
 Unmap this widget.
@@ -1235,7 +1235,7 @@ def place_forget(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## place\_info
 Return information about the placing options
@@ -1246,7 +1246,7 @@ def place_info(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## place\_slaves
 Return a list of all slaves of this widget
@@ -1257,7 +1257,7 @@ def place_slaves(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## propagate
 Set or get the status for propagation of geometry information.
@@ -1271,7 +1271,7 @@ def propagate(self, flag=['_noarg_']):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## quit
 Quit the Tcl interpreter. All widgets will be destroyed.
@@ -1281,7 +1281,7 @@ def quit(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## register
 Return a newly created Tcl function. If this
@@ -1294,7 +1294,7 @@ def register(self, func, subst=None, needcleanup=1):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## rowconfigure
 Configure row INDEX of a grid.
@@ -1308,7 +1308,7 @@ def rowconfigure(self, index, cnf={}, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## selection\_clear
 Clear the current X selection.
@@ -1318,7 +1318,7 @@ def selection_clear(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## selection\_get
 Return the contents of the current X selection.
@@ -1335,7 +1335,7 @@ def selection_get(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## selection\_handle
 Specify a function COMMAND to call if the X
@@ -1355,7 +1355,7 @@ def selection_handle(self, command, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## selection\_own
 Become owner of X selection.
@@ -1368,7 +1368,7 @@ def selection_own(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## selection\_own\_get
 Return owner of X selection.
@@ -1383,7 +1383,7 @@ def selection_own_get(self, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## send
 Send Tcl command CMD to different interpreter INTERP to be executed.
@@ -1393,7 +1393,7 @@ def send(self, interp, cmd, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## setvar
 Set Tcl variable NAME to VALUE.
@@ -1403,7 +1403,7 @@ def setvar(self, name='PY_VAR', value='1'):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## size
 Return a tuple of the number of column and rows in the grid.
@@ -1413,7 +1413,7 @@ def size(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## slaves
 Return a list of all slaves of this widget
@@ -1424,7 +1424,7 @@ def slaves(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_bisque
 Change the color scheme to light brown as used in Tk 3.6 and before.
@@ -1434,7 +1434,7 @@ def tk_bisque(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_focusFollowsMouse
 The widget under mouse will get automatically focus. Can not
@@ -1445,7 +1445,7 @@ def tk_focusFollowsMouse(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_focusNext
 Return the next widget in the focus order which follows
@@ -1462,7 +1462,7 @@ def tk_focusNext(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_focusPrev
 Return previous widget in the focus order. See tk_focusNext for details.
@@ -1472,7 +1472,7 @@ def tk_focusPrev(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_setPalette
 Set a new color scheme for all widget elements.
@@ -1491,7 +1491,7 @@ def tk_setPalette(self, *args, **kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tk\_strictMotif
 Set Tcl internal variable, whether the look and feel
@@ -1506,7 +1506,7 @@ def tk_strictMotif(self, boolean=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## tkraise
 Raise this widget in the stacking order.
@@ -1516,7 +1516,7 @@ def tkraise(self, aboveThis=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## unbind
 Unbind for this widget for event SEQUENCE  the
@@ -1527,7 +1527,7 @@ def unbind(self, sequence, funcid=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## unbind\_all
 Unbind for all widgets for event SEQUENCE all functions.
@@ -1537,7 +1537,7 @@ def unbind_all(self, sequence):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## unbind\_class
 Unbind for all widgets with bindtag CLASSNAME for event SEQUENCE
@@ -1548,7 +1548,7 @@ def unbind_class(self, className, sequence):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## update
 Enter event loop until all pending events have been processed by Tcl.
@@ -1558,7 +1558,7 @@ def update(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## update\_idletasks
 Enter event loop until all idle callbacks have been called. This
@@ -1570,7 +1570,7 @@ def update_idletasks(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## wait\_variable
 Wait until the variable is modified.
@@ -1583,7 +1583,7 @@ def wait_variable(self, name='PY_VAR'):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## wait\_visibility
 Wait until the visibility of a WIDGET changes
@@ -1596,7 +1596,7 @@ def wait_visibility(self, window=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## wait\_window
 Wait until a WIDGET is destroyed.
@@ -1608,7 +1608,7 @@ def wait_window(self, window=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## waitvar
 Wait until the variable is modified.
@@ -1621,7 +1621,7 @@ def waitvar(self, name='PY_VAR'):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## well
 No docstring
@@ -1631,7 +1631,7 @@ def well(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_atom
 Return integer which represents atom NAME.
@@ -1641,7 +1641,7 @@ def winfo_atom(self, name, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_atomname
 Return name of atom with identifier ID.
@@ -1651,7 +1651,7 @@ def winfo_atomname(self, id, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_cells
 Return number of cells in the colormap for this widget.
@@ -1661,7 +1661,7 @@ def winfo_cells(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_children
 Return a list of all widgets which are children of this widget.
@@ -1671,7 +1671,7 @@ def winfo_children(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_class
 Return window class name of this widget.
@@ -1681,7 +1681,7 @@ def winfo_class(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_colormapfull
 Return true if at the last color request the colormap was full.
@@ -1691,7 +1691,7 @@ def winfo_colormapfull(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_containing
 Return the widget which is at the root coordinates ROOTX, ROOTY.
@@ -1701,7 +1701,7 @@ def winfo_containing(self, rootX, rootY, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_depth
 Return the number of bits per pixel.
@@ -1711,7 +1711,7 @@ def winfo_depth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_exists
 Return true if this widget exists.
@@ -1721,7 +1721,7 @@ def winfo_exists(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_fpixels
 Return the number of pixels for the given distance NUMBER
@@ -1732,7 +1732,7 @@ def winfo_fpixels(self, number):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_geometry
 Return geometry string for this widget in the form "widthxheight+X+Y".
@@ -1742,7 +1742,7 @@ def winfo_geometry(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_height
 Return height of this widget.
@@ -1752,7 +1752,7 @@ def winfo_height(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_id
 Return identifier ID for this widget.
@@ -1762,7 +1762,7 @@ def winfo_id(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_interps
 Return the name of all Tcl interpreters for this display.
@@ -1772,7 +1772,7 @@ def winfo_interps(self, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_ismapped
 Return true if this widget is mapped.
@@ -1782,7 +1782,7 @@ def winfo_ismapped(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_manager
 Return the window manager name for this widget.
@@ -1792,7 +1792,7 @@ def winfo_manager(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_name
 Return the name of this widget.
@@ -1802,7 +1802,7 @@ def winfo_name(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_parent
 Return the name of the parent of this widget.
@@ -1812,7 +1812,7 @@ def winfo_parent(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_pathname
 Return the pathname of the widget given by ID.
@@ -1822,7 +1822,7 @@ def winfo_pathname(self, id, displayof=0):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_pixels
 Rounded integer value of winfo_fpixels.
@@ -1832,7 +1832,7 @@ def winfo_pixels(self, number):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_pointerx
 Return the x coordinate of the pointer on the root window.
@@ -1842,7 +1842,7 @@ def winfo_pointerx(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_pointerxy
 Return a tuple of x and y coordinates of the pointer on the root window.
@@ -1852,7 +1852,7 @@ def winfo_pointerxy(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_pointery
 Return the y coordinate of the pointer on the root window.
@@ -1862,7 +1862,7 @@ def winfo_pointery(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_reqheight
 Return requested height of this widget.
@@ -1872,7 +1872,7 @@ def winfo_reqheight(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_reqwidth
 Return requested width of this widget.
@@ -1882,7 +1882,7 @@ def winfo_reqwidth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_rgb
 Return tuple of decimal values for red, green, blue for
@@ -1893,7 +1893,7 @@ def winfo_rgb(self, color):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_rootx
 Return x coordinate of upper left corner of this widget on the
@@ -1904,7 +1904,7 @@ def winfo_rootx(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_rooty
 Return y coordinate of upper left corner of this widget on the
@@ -1915,7 +1915,7 @@ def winfo_rooty(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screen
 Return the screen name of this widget.
@@ -1925,7 +1925,7 @@ def winfo_screen(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screencells
 Return the number of the cells in the colormap of the screen
@@ -1936,7 +1936,7 @@ def winfo_screencells(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screendepth
 Return the number of bits per pixel of the root window of the
@@ -1947,7 +1947,7 @@ def winfo_screendepth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screenheight
 Return the number of pixels of the height of the screen of this widget
@@ -1958,7 +1958,7 @@ def winfo_screenheight(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screenmmheight
 Return the number of pixels of the height of the screen of
@@ -1969,7 +1969,7 @@ def winfo_screenmmheight(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screenmmwidth
 Return the number of pixels of the width of the screen of
@@ -1980,7 +1980,7 @@ def winfo_screenmmwidth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screenvisual
 Return one of the strings directcolor, grayscale, pseudocolor,
@@ -1992,7 +1992,7 @@ def winfo_screenvisual(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_screenwidth
 Return the number of pixels of the width of the screen of
@@ -2003,7 +2003,7 @@ def winfo_screenwidth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_server
 Return information of the X-Server of the screen of this widget in
@@ -2014,7 +2014,7 @@ def winfo_server(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_toplevel
 Return the toplevel widget of this widget.
@@ -2024,7 +2024,7 @@ def winfo_toplevel(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_viewable
 Return true if the widget and all its higher ancestors are mapped.
@@ -2034,7 +2034,7 @@ def winfo_viewable(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_visual
 Return one of the strings directcolor, grayscale, pseudocolor,
@@ -2046,7 +2046,7 @@ def winfo_visual(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_visualid
 Return the X identifier for the visual for this widget.
@@ -2056,7 +2056,7 @@ def winfo_visualid(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_visualsavailable
 Return a list of all visuals available for the screen
@@ -2070,7 +2070,7 @@ def winfo_visualsavailable(self, includeids=False):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_vrootheight
 Return the height of the virtual root window associated with this
@@ -2082,7 +2082,7 @@ def winfo_vrootheight(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_vrootwidth
 Return the width of the virtual root window associated with this
@@ -2094,7 +2094,7 @@ def winfo_vrootwidth(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_vrootx
 Return the x offset of the virtual root relative to the root
@@ -2105,7 +2105,7 @@ def winfo_vrootx(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_vrooty
 Return the y offset of the virtual root relative to the root
@@ -2116,7 +2116,7 @@ def winfo_vrooty(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_width
 Return the width of this widget.
@@ -2126,7 +2126,7 @@ def winfo_width(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_x
 Return the x coordinate of the upper left corner of this widget
@@ -2137,7 +2137,7 @@ def winfo_x(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## winfo\_y
 Return the y coordinate of the upper left corner of this widget
@@ -2148,7 +2148,7 @@ def winfo_y(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_Misc\_\_winfo\_getint
 Internal function.
@@ -2158,7 +2158,7 @@ def _Misc__winfo_getint(self, x):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_Misc\_\_winfo\_parseitem
 Internal function.
@@ -2168,7 +2168,7 @@ def _Misc__winfo_parseitem(self, t):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_bind
 Internal function.
@@ -2178,7 +2178,7 @@ def _bind(self, what, sequence, func, add, needcleanup=1):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_configure
 Internal function.
@@ -2188,7 +2188,7 @@ def _configure(self, cmd, cnf, kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_displayof
 Internal function.
@@ -2198,7 +2198,7 @@ def _displayof(self, displayof):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_do
 No docstring
@@ -2208,7 +2208,7 @@ def _do(self, name, args=()):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_getboolean
 Internal function.
@@ -2218,7 +2218,7 @@ def _getboolean(self, string):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_getconfigure
 Call Tcl configure command and return the result as a dict.
@@ -2228,7 +2228,7 @@ def _getconfigure(self, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_getconfigure1
 No docstring
@@ -2238,7 +2238,7 @@ def _getconfigure1(self, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_getdoubles
 Internal function.
@@ -2248,7 +2248,7 @@ def _getdoubles(self, string):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_getints
 Internal function.
@@ -2258,7 +2258,7 @@ def _getints(self, string):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_grid\_configure
 Internal function.
@@ -2268,7 +2268,7 @@ def _grid_configure(self, command, index, cnf, kw):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_gridconvvalue
 No docstring
@@ -2278,7 +2278,7 @@ def _gridconvvalue(self, value):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_nametowidget
 Return the Tkinter instance of a widget identified by
@@ -2289,7 +2289,7 @@ def _nametowidget(self, name):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_options
 Internal function.
@@ -2299,7 +2299,7 @@ def _options(self, cnf, kw=None):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_register
 Return a newly created Tcl function. If this
@@ -2312,7 +2312,7 @@ def _register(self, func, subst=None, needcleanup=1):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_report\_exception
 Internal function.
@@ -2322,7 +2322,7 @@ def _report_exception(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_root
 Internal function.
@@ -2332,7 +2332,7 @@ def _root(self):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_setup
 Internal function. Sets up information about children.
@@ -2342,7 +2342,7 @@ def _setup(self, master, cnf):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>
 
 ## \_substitute
 Internal function.
@@ -2352,4 +2352,4 @@ def _substitute(self, *args):
     ...
 ```
 
-<p align="right"><a href="##methods-within-mega">Back to top</a></p>
+<p align="right"><a href="#methods-within-mega">Back to top</a></p>

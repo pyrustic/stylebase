@@ -40,7 +40,7 @@ Intro text for the exceptions - section
 | ErrorLake | Raised when something... |
 | AnotherError | Raised when... |
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## func2
 No docstring
@@ -50,7 +50,7 @@ def func2():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## func3
 No docstring
@@ -60,7 +60,7 @@ def func3():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## main
 main function
@@ -70,7 +70,7 @@ def main():
     ...
 ```
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## my\_function
 This function will bla bla bla bla and bla then bla.
@@ -88,7 +88,7 @@ def my_function(name, pi=3.14, path='/home'):
 
 > **Returns:** This function returns nothing !
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
 
 ## zanother\_function\_
 No docstring
@@ -102,4 +102,4 @@ def zanother_function_(_oy_=23):
 | --- | --- |
 | \_oy\_ | just |
 
-<p align="right"><a href="##functions-within-module">Back to top</a></p>
+<p align="right"><a href="#functions-within-module">Back to top</a></p>
