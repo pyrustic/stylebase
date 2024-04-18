@@ -1,4 +1,4 @@
-[Project](github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | Module | [Source](https://github.com/pyrustic/stylebase/blob/master/stylebase/__main__.py)
+[Project](https://github.com/pyrustic/stylebase#readme) | [Docs](https://github.com/pyrustic/stylebase/blob/master/docs/README.md) | Module | [Source](https://github.com/pyrustic/stylebase/blob/master/stylebase/__main__.py)
 
 # Module Overview
 > Module: **stylebase.\_\_main\_\_**

@@ -1,4 +1,4 @@
-[Project](github.com/pyrustic/stylebase#readme) | Docs
+[Project](https://github.com/pyrustic/stylebase#readme) | Docs
 
 # Modules Documentation
 [stylebase.\_\_init\_\_](https://github.com/pyrustic/stylebase/blob/master/docs/modules/stylebase/__init__/README.md)
