@@ -21,6 +21,7 @@ def main():
     """
     main function
     """
+    print("welcome")
     print("https://github.com/pyrustic/stylebase")
 
 def func1(a, b="hi", c=42):
